@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Aarav",
+    "age": 20,
+    "branch": "CSE",
+    "cgpa": 8.5,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Diya",
+    "age": 21,
+    "branch": "IT",
+    "cgpa": 9.1,
+    "city": "Pune"
+  },
+  {
+    "name": "Rohan",
+    "age": 19,
+    "branch": "ECE",
+    "cgpa": 7.8,
+    "city": "Delhi"
+  },
+  {
+    "name": "Sneha",
+    "age": 20,
+    "branch": "CSE",
+    "cgpa": 8.9,
+    "city": "Bangalore"
+  },
+  {
+    "name": "Kabir",
+    "age": 22,
+    "branch": "Mechanical",
+    "cgpa": 7.2,
+    "city": "Chennai"
+  },
+  {
+    "name": "Isha",
+    "age": 21,
+    "branch": "IT",
+    "cgpa": 9.4,
+    "city": "Hyderabad"
+  },
+  {
+    "name": "Vikram",
+    "age": 20,
+    "branch": "ECE",
+    "cgpa": 6.9,
+    "city": "Jaipur"
+  },
+  {
+    "name": "Meera",
+    "age": 19,
+    "branch": "CSE",
+    "cgpa": 8.2,
+    "city": "Nagpur"
+  },
+  {
+    "name": "Arjun",
+    "age": 22,
+    "branch": "Civil",
+    "cgpa": 7.5,
+    "city": "Indore"
+  },
+  {
+    "name": "Ananya",
+    "age": 21,
+    "branch": "IT",
+    "cgpa": 8.7,
+    "city": "Kolkata"
+  }
+]
